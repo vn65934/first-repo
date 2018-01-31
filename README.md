@@ -1,3 +1,5 @@
 # first-repo
 
-First repo in github local
+
+This is my first repo  in Github and local git which is called as firstrepo.
+
